@@ -33,10 +33,19 @@ node main.js
 如您选择使用decodeObfuscator即代表您遵守此协议，作者不承担任何由于您违反此协议带来任何的法律风险和损失，一切后果由您承担。
 
 
+# 知识星球二维码
+
+
+![Test](https://github.com/Tsaiboss/ControlFlow/blob/main/QR%20code/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.jpg) 
+
+
 # 交流群 （加我好友拉你进群）。
 
 
 ![Test](https://github.com/Tsaiboss/ControlFlow/blob/main/QR%20code/%E5%BE%AE%E4%BF%A1%E5%8F%B7.jpg) 
+
+
+
 
 个人微信:523176585
 
